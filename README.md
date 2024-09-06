@@ -1,2 +1,8 @@
-# Poly-Project
-Action adventure game developed in Unreal Engine
+# Poly Project
+
+Official name is yet to be determined.
+
+Poly Project is an action adventure game that is being developed in Unreal Engine. It features a polygon asthetic with gameplay inspired by Zelda and Dark Souls.
+
+
+
