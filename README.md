@@ -1,7 +1,5 @@
 
-# Poly Project
-
-Official name is yet to be determined.
+# Poly Project (Official name is yet to be determined)
 
 #### Table of Contents  
 [Description](#description)  
@@ -15,5 +13,14 @@ Official name is yet to be determined.
 ## Description
 Poly Project is an action adventure game that is being developed in Unreal Engine. It features a polygon asthetic with gameplay inspired by Zelda and Dark Souls.
 
+## Features
+
+
 ## Technical Features
+1. Movement
+2. Items/Inventory
+3. Combat
+⋅⋅3. Ordered sub-list
+⋅⋅3. Ordered sub-list
+
 
