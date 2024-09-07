@@ -8,7 +8,7 @@
 [Demo](#demo)  
 <a name="description"/>
 <a name="features"/>
-<a name="demo"/>
+<a name="technicalexplainations"/>
 
 ## Description
 Poly Project is an action adventure game that is being developed in Unreal Engine. It features a polygon asthetic with gameplay inspired by Zelda and Dark Souls.
