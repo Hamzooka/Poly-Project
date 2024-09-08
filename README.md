@@ -56,3 +56,32 @@ After expereincing the demo as is, you may press `*` on the keyboard to unlock a
 
 ## Controls
 ![alt text](https://github.com/hamzooka/Poly-Project/blob/main/gifs/controls.png?raw=true)
+#### Keyboard & Mouse
+*** Keyboard & Mouse is not as integrated as controller
+
+
+`WASD` : Movement
+
+`Left Shift` : Sprint
+
+`Left Alt` : Block (shield) / Aim (Bow)
+
+`F` : Draw / Sheath Weapons
+
+`Middle Mouse Clic`k : Lock On
+
+`o` : Pause Menu
+
+`Tab` : Inventory Menu
+
+`Left Click` : Attack / Draw Bow
+
+`Right Click` : Parry (with shield)
+
+`E` : Interact (Sometimes need to use `T` in some places where it says controller `Y`)
+
+`R` : Roll
+
+`C` : Use Quickslot Items
+
+`Space` : Jump
