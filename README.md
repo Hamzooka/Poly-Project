@@ -38,9 +38,11 @@ The game is designed with a `Controller` as your input however a `Keyboard & Mou
 ![alt text](https://github.com/hamzooka/Poly-Project/blob/main/images/inventory_2.png?raw=true)
 ![alt text](https://github.com/hamzooka/Poly-Project/blob/main/gifs/bomb_1.gif?raw=true)
 #### Combat & Weapons
-
+![alt text](https://github.com/hamzooka/Poly-Project/blob/main/gifs/combat_1.gif?raw=true)
+![alt text](https://github.com/hamzooka/Poly-Project/blob/main/images/bow_1.png?raw=true)
 
 ## Technical Explainations
+(Coming Soon)
 1. Movement/Climbing
 2. Items/Inventory
 3. Combat/Weapons
@@ -49,7 +51,7 @@ The game is designed with a `Controller` as your input however a `Keyboard & Mou
 
 
 ## Demo
-To try the demo for yourself you can download the `Demo.zip` file provided.
+To try the demo for yourself you can download the `demo.zip` file provided.
 
 To run the game, unzip the file and run the `PolyProject.exe` file. It may ask you to download Visual Studio or DirectX if it is not currently on your computer. There may be a windows warning that pops up about the safety of the game, you may ignore this and run it anyways.
 
