@@ -3,9 +3,13 @@
 
 #### Table of Contents  
 [Description](#description)  
+
 [Features](#features)  
+
 [Demo](#demo)
+
 [Controls](#controls)
+
 <a name="description"/>
 <a name="features"/>
 <a name="demo"/>
@@ -51,4 +55,4 @@ After expereincing the demo as is, you may press `*` on the keyboard to unlock a
 #### NOTE: If you have a 4k capable monitor, make sure you switch the settings to `3840x2160` in the resolution section and enable `Fullscreen`. This will allow you to experience the game in its full glory.
 
 ## Controls
-![alt text](https://github.com/hamzooka/Poly-Project/blob/main/images/controls.png?raw=true)
+![alt text](https://github.com/hamzooka/Poly-Project/blob/main/gifs/controls.png?raw=true)
