@@ -4,11 +4,9 @@
 #### Table of Contents  
 [Description](#description)  
 [Features](#features)  
-[Technical Explainations](#technicalexplainations)  
 [Demo](#demo)  
 <a name="description"/>
 <a name="features"/>
-<a name="technicalexplainations"/>
 <a name="demo"/>
 
 
@@ -40,15 +38,6 @@ The game is designed with a `Controller` as your input however a `Keyboard & Mou
 #### Combat & Weapons
 ![alt text](https://github.com/hamzooka/Poly-Project/blob/main/gifs/combat_1.gif?raw=true)
 ![alt text](https://github.com/hamzooka/Poly-Project/blob/main/images/bow_1.png?raw=true)
-
-## Technical Explainations
-(Coming Soon)
-1. Movement/Climbing
-2. Items/Inventory
-3. Combat/Weapons
-4. Enemy AI and movement
-5. Other (fishing, swimming/diving, IK/animation blending)
-
 
 ## Demo
 To try the demo for yourself you can download the `demo.zip` file provided.
