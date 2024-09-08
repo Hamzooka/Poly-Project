@@ -35,7 +35,7 @@ The game is designed with a `Controller` as your input however a `Keyboard & Mou
 ![alt text](https://github.com/hamzooka/Poly-Project/blob/main/gifs/dive_1.gif?raw=true)
 #### Inventory & Items
 ![alt text](https://github.com/hamzooka/Poly-Project/blob/main/images/inventory_1.png?raw=true)
-![alt text](https://github.com/hamzooka/Poly-Project/blob/main/images/inventor_2.png?raw=true)
+![alt text](https://github.com/hamzooka/Poly-Project/blob/main/images/inventory_2.png?raw=true)
 ![alt text](https://github.com/hamzooka/Poly-Project/blob/main/gifs/bomb_1.gif?raw=true)
 #### Combat & Weapons
 
