@@ -50,7 +50,7 @@ To try the demo for yourself you can download the `demo.zip` file provided.
 
 To run the game, unzip the folder and run the `PolyProject.exe` file. It may ask you to download Visual Studio or DirectX if it is not currently on your computer. There may be a windows warning that pops up about the safety of the game, you may ignore this and run it anyways.
 
-After expereincing the demo as is, you may press `*` on the keyboard to unlock a bunch of items to try out in your inventory.
+After experiencing the demo as is, you may press `*` on the keyboard to unlock a bunch of items to try out in your inventory.
 
 #### NOTE: If you have a 4k capable monitor, make sure you switch the settings to `3840x2160` in the resolution section and enable `Fullscreen`. This will allow you to experience the game in its full glory.
 
